@@ -13,23 +13,23 @@ ThemeData appTheme = new ThemeData(
   primaryColorDark: primaryColorDark,
   fontFamily: "Ubuntu",
   primarySwatch: MaterialColor(
-    HexColor.getColorFromHex("#09125D"),
+    HexColor.getColorFromHex("#4A0068"),
     primarySwatch,
   ),
   // canvasColor: Colors.transparent,
 );
 
 Map<int, Color> primarySwatch = {
-  50: Color.fromRGBO(9, 18, 93, .1),
-  100: Color.fromRGBO(9, 18, 93, .2),
-  200: Color.fromRGBO(9, 18, 93, .3),
-  300: Color.fromRGBO(9, 18, 93, .4),
-  400: Color.fromRGBO(9, 18, 93, .5),
-  500: Color.fromRGBO(9, 18, 93, .6),
-  600: Color.fromRGBO(9, 18, 93, .7),
-  700: Color.fromRGBO(9, 18, 93, .8),
-  800: Color.fromRGBO(9, 18, 93, .9),
-  900: Color.fromRGBO(9, 18, 93, 1),
+  50: Color.fromRGBO(74, 0, 104, .1),
+  100: Color.fromRGBO(74, 0, 104, .2),
+  200: Color.fromRGBO(74, 0, 104, .3),
+  300: Color.fromRGBO(74, 0, 104, .4),
+  400: Color.fromRGBO(74, 0, 104, .5),
+  500: Color.fromRGBO(74, 0, 104, .6),
+  600: Color.fromRGBO(74, 0, 104, .7),
+  700: Color.fromRGBO(74, 0, 104, .8),
+  800: Color.fromRGBO(74, 0, 104, .9),
+  900: Color.fromRGBO(74, 0, 104, 1),
 };
 
 TextStyle buttonTextStyle = const TextStyle(
